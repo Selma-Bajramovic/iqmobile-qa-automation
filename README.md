@@ -43,7 +43,7 @@ This project contains Selenium WebDriver tests for the IQ Mobile website. The te
 1. Clone this repository:
    ```bash
    git clone https://github.com/Selma-Bajramovic/iqmobile-qa-automation.git
-   cd iqmobile-qa-automation.git
+   cd iqmobile-qa-automation
    ```
 2. Install dependencies:
    ```bash
